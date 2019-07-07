@@ -4,13 +4,13 @@ Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree!
 
 Sample Output
 PROJECT INSTRUCTIONS :
--The software used for this project is :
-  -Anaconda Jupyter Notebook
--The libraries used in this project are :
-  -PyTorch
-  -Numpy
-  -matplotlib
-  -openCV
+- The software used for this project is :
+  - Anaconda Jupyter Notebook
+- The libraries used in this project are :
+  - PyTorch
+  - Numpy
+  - matplotlib
+  - openCV
 The data set that is used in the project can be downloaded from the links provided below :
-  1. For dog dataset -  dog dataset
-  2. For humans dataset -  human dataset
+  1. For dog dataset -  [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
+  2. For humans dataset -  [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz)
